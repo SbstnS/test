@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 coling coling
+=======
+hehehehehe
+
+Now I'm adding a Second Line
+>>>>>>> 42341c878d00dd6216e9877fcac8d152fcbd9661
