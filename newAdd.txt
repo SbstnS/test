@@ -1,6 +1,1 @@
-Adding Adding Adding
-
-Delete delete delete
-
-
-New Branch "Test"
+New Branch "Test" and deleted everything else.
